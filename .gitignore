@@ -1,0 +1,10 @@
+# Incomplete downloads
+*.crdownload
+
+# Oversized packages (GitHub 100MB hard limit)
+*.7z
+EC-R3576PC/Firmware/
+EC-R3576PC FD-V1.1/RKNN Toolkit2/rknn-toolkit2-master.zip
+EC-R3576PC FD-V1.1/RKNN Model Zoo/rknn_model_zoo-main.zip
+EC-R3576PC FD-V1.1/Yolo v5 RKNN/rknn_model_zoo-main.zip
+EC-R3576PC FD-V1.1/rootfs/ubuntu 22.04/Kernel-6.1-20260904T021113Z-1.zip
